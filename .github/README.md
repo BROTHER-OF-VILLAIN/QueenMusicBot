@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/c8148b2555b1675061580.jpg" align="right" width="200" height="200"/>
 
 # 𝞿𝞾𝞮𝞮𝞰 ✰ 𝞛𝞾𝙨𝞲𝞻 <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
